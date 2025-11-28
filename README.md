@@ -1,4 +1,4 @@
-# Book Recommendation Management
+# Book Recommendation System
 A lightweight Book Recommendation web application built using Spring Boot, Thymeleaf-like static HTML, Spring Data JPA, and H2/MySQL.
 Users can add books, view available books, and get simple recommendations based on book genres.
 
